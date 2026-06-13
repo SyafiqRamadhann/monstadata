@@ -1,41 +1,34 @@
-{
-  "manga_id": "ADPR-0001",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "용살자의 급이 다른 회귀",
-  "status": "Ongoing",
-  "author": "Jinsu",
-  "artist": "C.H",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Returner"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Sebagai manusia biasa yang berhasil membunuh Raja Naga raksasa, Eugene pada akhirnya menemui ajalnya akibat luka yang terlalu parah. Namun, sebuah keajaiban terjadi. Ia mengulang waktu kembali ke masa lalu dengan ingatan utuh dan kemampuan yang terus berkembang. Kini, ia siap menulis ulang sejarah dan memburu naga dengan kekuatan yang tidak tertandingi.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/adpr-0001.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Akhir dan Awal yang Baru",
-      "images": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kebangkitan Sang Pemburu Naga",
-      "images": [
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  "Action",
+  "Adventure",
+  "Fantasy",
+  "Returner",
+  {
+    "chapter_number": 1,
+    "chapter_title": "Akhir dan Awal yang Baru",
+    "images": [
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/001.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/002.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/003.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-01/004.jpg"
+    ]
+  },
+  {
+    "chapter_number": 2,
+    "chapter_title": "Kebangkitan Sang Pemburu Naga",
+    "images": [
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/001.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/002.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/003.jpg",
+      "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/adpr-0001/ch-02/004.jpg"
+    ]
+  },
+  {
+    "id": "Action::Pick Me Up, Infinite Gacha.cbz",
+    "title": "Action",
+    "chapter": "Pick Me Up, Infinite Gacha",
+    "category": "Action",
+    "cbzPath": "Action/Pick Me Up, Infinite Gacha.cbz",
+    "coverPath": "Action/cover.jpg"
+  }
+]
