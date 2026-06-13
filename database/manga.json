@@ -54,5 +54,13 @@
     "category": "Action",
     "cbzPath": "Action/The S-Classes That I Raised.cbz",
     "coverPath": "Action/cover.jpg"
+  },
+  {
+    "id": "Pick Me Up, Infinite Gacha::Pick Me Up, Infinite Gacha.cbz",
+    "title": "Pick Me Up, Infinite Gacha",
+    "chapter": "Pick Me Up, Infinite Gacha",
+    "category": "Pick Me Up, Infinite Gacha",
+    "cbzPath": "Pick Me Up, Infinite Gacha/Pick Me Up, Infinite Gacha.cbz",
+    "coverPath": "Pick Me Up, Infinite Gacha/cover.jpg"
   }
 ]
