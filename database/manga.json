@@ -38,5 +38,21 @@
     "category": "Thriller",
     "cbzPath": "Thriller/I Killed an Academy Player.cbz",
     "coverPath": "Thriller/cover.jpg"
+  },
+  {
+    "id": "Action::Talent-Swallowing Magician.cbz",
+    "title": "Action",
+    "chapter": "Talent Swallowing Magician",
+    "category": "Action",
+    "cbzPath": "Action/Talent-Swallowing Magician.cbz",
+    "coverPath": "Action/cover.jpg"
+  },
+  {
+    "id": "Action::The S-Classes That I Raised.cbz",
+    "title": "Action",
+    "chapter": "The S Classes That I Raised",
+    "category": "Action",
+    "cbzPath": "Action/The S-Classes That I Raised.cbz",
+    "coverPath": "Action/cover.jpg"
   }
 ]
