@@ -30,5 +30,13 @@
     "category": "Action",
     "cbzPath": "Action/Pick Me Up, Infinite Gacha.cbz",
     "coverPath": "Action/cover.jpg"
+  },
+  {
+    "id": "Thriller::I Killed an Academy Player.cbz",
+    "title": "Thriller",
+    "chapter": "I Killed An Academy Player",
+    "category": "Thriller",
+    "cbzPath": "Thriller/I Killed an Academy Player.cbz",
+    "coverPath": "Thriller/cover.jpg"
   }
 ]
